@@ -2,6 +2,6 @@
   "name": "health-assist-ai",
   "version": "1.0.0",
   "scripts": {
-    "start": "node api/proxy.js"
+    "start": "node proxy.js"
   }
 }
